@@ -1,0 +1,1 @@
+export CLASSPATH=$CLASSPATH:/Users/akitada/IdeaProjects/GemFirePasswordEncryption/out/production/GemFirePasswordEncryption
